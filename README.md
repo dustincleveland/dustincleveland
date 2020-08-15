@@ -1,5 +1,9 @@
 ### Hi, I'm Dustin 👋
 
+## I'm a Software Developer!
+- Independent contractor based in Joplin, Missouri.
+- Nearly 10 years of experience building enterprise software!
+
 ### Books that have most influenced my work
 - _The Software Craftsman_ by Sandro Mancuso
 - _Clean Architecture_ by Robert C. Martin
